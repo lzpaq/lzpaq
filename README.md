@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 
+🌱 I’m currently learning how to use GitHub  
 
+🔭 I am looking for help with developong playbooks for MS Sentinel
 <!--
 **lzpaq/lzpaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
